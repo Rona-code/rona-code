@@ -51,7 +51,4 @@ Just a little...
 - [Solid JS](https://www.solidjs.com/)
 
 ---
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rona-dev&show_icons=true&locale=en&layout=compact" alt="rona-dev" />
-  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rona-dev&" alt="rona-dev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rona-dev&" alt="ichigo-dev" />
