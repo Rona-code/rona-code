@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rona</h1>
-<h3 align="center">A Japanese web developer aiming to become a full stack</h3>
+<h3 align="center">A developer wanting to give everyone back digital sovereignty.</h3>
 
-- 🌱 I’m currently learning **Rust**
-
-- 📝 I regularly write technical knowledge notes on [https://github.com/rona-dev/knowledge](https://github.com/rona-dev/knowledge)
-
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **rona.chaubell@gmail.com**
 
 ## Connect with me  
 
@@ -15,40 +11,24 @@
 
 ## Languages and Tools:
 
-[![MySkills](https://skillicons.dev/icons?i=vim,neovim,git,linux)](https://skillicons.dev)
+[![Environment](https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino)](https://skillicons.dev)
 
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,wasm)](https://skillicons.dev)
-
-- [Sycamore](https://sycamore-rs.netlify.app)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=rust,go,ts,php,wordpress,cpp,mysql)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=cpp,cs,powershell,bash,dotnet,rust,java,python,swift)](https://skillicons.dev)
 
-- [Tokio](https://tokio.rs)
-- [Axum](https://github.com/tokio-rs/axum)
+### Tools
 
-### Infrastructure
+[![Tools](https://skillicons.dev/icons?i=visualstudio,qt,cmake,androidstudio,github,vim,next,vercel)](https://skillicons.dev)
 
-[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx,terraform)](https://skillicons.dev)
-
-
-### AI/ML
-
-Just a little...
-
-[![AI/ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](https://skillicons.dev)
-
-
-### Interested
-
-[![Interested](https://skillicons.dev/icons?i=flutter,dart,electron)](https://skillicons.dev)
-
-- [Solid JS](https://www.solidjs.com/)
+![WinDbg](https://img.shields.io/badge/WinDbg-Debug-blue?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-RE-red?style=for-the-badge)
 
 ---
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rona-dev&" alt="ichigo-dev" />
