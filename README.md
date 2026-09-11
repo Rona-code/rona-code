@@ -3,12 +3,6 @@
 
 - 📫 How to reach me **rona.chaubell@gmail.com**
 
-## Connect with me  
-
-<a href="https://github.com/rona-code" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
 ## Languages and Tools:
 
 [![Environment](https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi,arduino)](https://skillicons.dev)
