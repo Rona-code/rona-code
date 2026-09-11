@@ -29,6 +29,3 @@
 
 ![WinDbg](https://img.shields.io/badge/WinDbg-Debug-blue?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/Ghidra-RE-red?style=for-the-badge)
-
----
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rona-dev&" alt="ichigo-dev" />
