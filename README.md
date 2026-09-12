@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rona</h1>
 <h3 align="center">A developer wanting to give everyone back digital sovereignty.</h3>
 
-- 📫 How to reach me **rona.chaubell@gmail.com**
+- 📫 [How to reach me](mailto:rona.chaubell@gmail.com)
+
 
 ## Languages and Tools:
 
